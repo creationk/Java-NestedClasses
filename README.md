@@ -1,4 +1,4 @@
-# JavaBasic-Projects-InnerClasses
+# JavaBasic-Projects-NestedClasses
 
 - Nested classes are simply classes defined inside other classes. 
 - Nested classes can be used to increase encapsulation and make your code more readable and maintainable.
